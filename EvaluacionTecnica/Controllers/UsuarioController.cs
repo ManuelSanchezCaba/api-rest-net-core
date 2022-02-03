@@ -52,6 +52,7 @@ namespace EvaluacionTecnica.Controllers
             }
         }
 
+        [AllowAnonymous]
         [HttpPost]
         public async Task<IActionResult> Post([FromBody] Usuario usuario)
         {

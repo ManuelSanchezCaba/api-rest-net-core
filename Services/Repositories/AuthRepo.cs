@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using Models.Context;
+using Services.Common;
 using Services.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -29,10 +30,13 @@ namespace Services.Repositories
             try
             {
                 var usuario = await _db.Usuario
-                    .Where(x => x.Usuario_Nombre == username && x.Contrasena == password)
+                    .Where(x => x.Usuario_Nombre == username)
                     .FirstOrDefaultAsync();
 
-                if (usuario == null) return new { msg = "No token" };
+                if (usuario == null || CommonMethods.DecryptPassword(usuario.Contrasena) != password)
+                {
+                    return new { msg = "No token" };
+                }
 
                 var role = await _db.Role.Where(x => x.Id == usuario.RoleId).Select(x => x.Nombre).FirstOrDefaultAsync();
 

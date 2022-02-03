@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Models.Context;
 using Models.Models;
+using Services.Common;
 using Services.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -49,6 +50,7 @@ namespace Services.Repositories
         {
             try
             {
+                usuario.Contrasena = CommonMethods.EncryptPassword(usuario.Contrasena);
                 await _db.AddAsync(usuario);
                 await _db.SaveChangesAsync();
                 return new
