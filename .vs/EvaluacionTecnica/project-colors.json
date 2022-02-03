@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "385bd68e-8e41-4134-92f4-98dc3c84aef7": {
+      "ProjectGuid": "385bd68e-8e41-4134-92f4-98dc3c84aef7",
+      "DisplayName": "EvaluacionTecnica",
+      "ColorIndex": 0
+    },
+    "cf7563d8-4ba2-401f-8aac-6ad237e1090f": {
+      "ProjectGuid": "cf7563d8-4ba2-401f-8aac-6ad237e1090f",
+      "DisplayName": "Models",
+      "ColorIndex": 1
+    },
+    "7c52d387-ec29-458f-8319-a4260e0c2e4e": {
+      "ProjectGuid": "7c52d387-ec29-458f-8319-a4260e0c2e4e",
+      "DisplayName": "Services",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

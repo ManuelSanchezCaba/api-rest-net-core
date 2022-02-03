@@ -1,0 +1,120 @@
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\appsettings.Development.json
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\appsettings.json
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\EvaluacionTecnica.exe
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\EvaluacionTecnica.deps.json
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\EvaluacionTecnica.runtimeconfig.json
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\EvaluacionTecnica.runtimeconfig.dev.json
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\EvaluacionTecnica.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\ref\EvaluacionTecnica.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\EvaluacionTecnica.pdb
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.AssemblyInfo.cs
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.MvcApplicationPartsAssemblyInfo.cs
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\scopedcss\bundle\EvaluacionTecnica.styles.css
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\staticwebassets\EvaluacionTecnica.StaticWebAssets.Manifest.cache
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.RazorTargetAssemblyInfo.cache
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.csproj.CopyComplete
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\ref\EvaluacionTecnica.dll
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.pdb
+D:\Visual Studio Projects\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.genruntimeconfig.cache
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\appsettings.Development.json
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\appsettings.json
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\EvaluacionTecnica.exe
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\EvaluacionTecnica.deps.json
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\EvaluacionTecnica.runtimeconfig.json
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\EvaluacionTecnica.runtimeconfig.dev.json
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\EvaluacionTecnica.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\ref\EvaluacionTecnica.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\EvaluacionTecnica.pdb
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.csproj.AssemblyReference.cache
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.AssemblyInfoInputs.cache
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.AssemblyInfo.cs
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.csproj.CoreCompileInputs.cache
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.MvcApplicationPartsAssemblyInfo.cs
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\scopedcss\bundle\EvaluacionTecnica.styles.css
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\staticwebassets\EvaluacionTecnica.StaticWebAssets.Manifest.cache
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.RazorTargetAssemblyInfo.cache
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.csproj.CopyComplete
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\ref\EvaluacionTecnica.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.pdb
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\obj\Debug\net5.0\EvaluacionTecnica.genruntimeconfig.cache
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Models.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Models.pdb
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Services.dll
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Services.pdb
