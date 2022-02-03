@@ -34,13 +34,16 @@ namespace Services.Repositories
 
                 if (usuario == null) return new { msg = "No token" };
 
+                var role = await _db.Role.Where(x => x.Id == usuario.RoleId).Select(x => x.Nombre).FirstOrDefaultAsync();
+
                 var tokenHandler = new JwtSecurityTokenHandler();
                 var secret = Encoding.UTF8.GetBytes(Configuration.GetSection("SECRET").Value);
                 var tokenDescriptor = new SecurityTokenDescriptor
                 {
                     Subject = new ClaimsIdentity(new Claim[]
                     {
-                        new Claim(ClaimTypes.Name, username)
+                        new Claim(ClaimTypes.Name, username),
+                        new Claim(ClaimTypes.Role, role)
                     }),
                     Expires = DateTime.UtcNow.AddHours(24),
                     SigningCredentials = 

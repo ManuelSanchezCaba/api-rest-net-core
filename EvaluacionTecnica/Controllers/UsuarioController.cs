@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace EvaluacionTecnica.Controllers
 {
-    [Authorize]
+    [Authorize(Roles = "ADMIN")]
     [ApiController]
     [Route("[controller]")]
     public class UsuarioController : Controller
