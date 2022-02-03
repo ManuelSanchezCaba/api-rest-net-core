@@ -1,6 +1,6 @@
-﻿using EvaluacionTecnica.ViewModels;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Models.ViewModels;
 using Services.Interfaces;
 using System;
 using System.Linq;

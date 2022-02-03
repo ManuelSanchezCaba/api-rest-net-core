@@ -78,7 +78,6 @@ D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecni
 D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.OpenApi.dll
-D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -118,3 +117,4 @@ D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecni
 D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Models.pdb
 D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Services.dll
 D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Services.pdb
+D:\Proyectos React\Prueba Simetrica Consulting\EvaluacionTecnica\EvaluacionTecnica\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Models;
 using Models.Models;
@@ -9,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace EvaluacionTecnica.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("[controller]")]
     public class RoleController : Controller
@@ -20,6 +22,7 @@ namespace EvaluacionTecnica.Controllers
             _db = db;
         }
 
+        [AllowAnonymous]
         [HttpGet]
         public async Task<IActionResult> Get()
         {
@@ -34,6 +37,7 @@ namespace EvaluacionTecnica.Controllers
             }
         }
 
+        [AllowAnonymous]
         [HttpGet("{id}")]
         public async Task<IActionResult> Get(int id)
         {
